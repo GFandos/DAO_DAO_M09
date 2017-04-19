@@ -1,0 +1,17 @@
+<Facturas>
+    <Factura>
+        <Cliente>123123123</Cliente>
+        <Productos>
+            <Producto>12</Producto>
+            <Producto>13</Producto>
+        </Productos>
+        <PrecioTotal>245</PrecioTotal>
+    </Factura>
+    <Factura>
+        <Cliente>54123121</Cliente>
+        <Productos>
+            <Producto>12</Producto>
+        </Productos>
+        <PrecioTotal>45</PrecioTotal>
+    </Factura>
+</Facturas>

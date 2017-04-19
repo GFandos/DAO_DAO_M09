@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Empleados>
+    <Empleado id="1">
+        <Nombre>Gerard</Nombre>
+        <Apellidos>Fandos Garcia</Apellidos>
+        <AñosTrabajados>10</AñosTrabajados>
+        <Salario>50000</Salario>
+    </Empleado>
+    <Empleado id="2">
+        <Nombre>Marcos</Nombre>
+        <Apellidos>Gomez Sanchez</Apellidos>
+        <AñosTrabajados>1</AñosTrabajados>
+        <Salario>25000</Salario>
+    </Empleado>
+    <Empleado id="3">
+        <Nombre>Oscar</Nombre>
+        <Apellidos>Moreno</Apellidos>
+        <AñosTrabajados>16</AñosTrabajados>
+        <Salario>50000</Salario>
+    </Empleado>
+    <Empleado id="4">
+        <Nombre>Sandra</Nombre>
+        <Apellidos>Garcia Garcia</Apellidos>
+        <AñosTrabajados>2</AñosTrabajados>
+        <Salario>20000</Salario>
+    </Empleado>
+    <Empleado id="5">
+        <Nombre>Marta</Nombre>
+        <Apellidos>Argila Plaza</Apellidos>
+        <AñosTrabajados>4</AñosTrabajados>
+        <Salario>40000</Salario>
+    </Empleado>
+</Empleados>

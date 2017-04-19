@@ -1,0 +1,12 @@
+<Catalogos>
+    <Catalogo idProducto="12">
+        <Producte>Libro</Producte>
+        <Precio>45</Precio>
+        <Stock>10</Stock>
+    </Catalogo>
+    <Catalogo idProducto="13">
+        <Nombre>Carta</Nombre>
+        <Precio>30</Precio>
+        <Stock>200</Stock>
+    </Catalogo>
+</Catalogos>

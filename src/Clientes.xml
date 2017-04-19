@@ -1,0 +1,20 @@
+<Clientes>
+    <Cliente nif="123123123">
+        <Nombre>Sandra</Nombre>
+        <Apellidos>Fandos Garcia</Apellidos>
+    </Cliente>
+    <Cliente nif="321321321">
+        <Nombre>Gerard</Nombre>
+        <Apellidos>Gomez Sanchez</Apellidos>
+    </Cliente>
+    <Cliente nif="542314123">
+        <Nombre>Mandra</Nombre>
+        <Apellidos>Moreno</Apellidos>
+        <AñosTrabajados>16</AñosTrabajados>
+        <Salario>50000</Salario>
+    </Cliente>
+    <Cliente nif="54123121">
+        <Nombre>Perena</Nombre>
+        <Apellidos>Garcia Garcia</Apellidos>
+    </Cliente>
+</Clientes>
